@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Mattia Astorino</string>
+	<string>Bartek Kryza</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>name</key>
@@ -127,7 +127,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C792EA</string>
+				<string>#96CBFE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -149,7 +149,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#89DDFF</string>
+				<string>#C5C8C6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -171,7 +171,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#82AAFF</string>
+				<string>#FFD2A7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -217,7 +217,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFCB6B</string>
+				<string>#FFFDB6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -239,7 +239,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF5370</string>
+				<string>#FFD2A7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -285,7 +285,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C792EA</string>
+				<string>#96CBFE</string>
 			</dict>
 		</dict>
 		<dict>
